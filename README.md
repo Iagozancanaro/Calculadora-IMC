@@ -1,3 +1,8 @@
+Tarefa prática do módulo introdução ao JavaScript.
+Desenvolver uma calculadora de IMC (Índice de Massa Corporal), que é uma ferramenta simples para avaliar se uma pessoa está dentro de uma faixa de peso considerada saudável.
+
+Requisitos:
+
 Estrutura HTML
 - Crie um arquivo HTML com a seguinte estrutura:
 - Dois campos de input: um para o peso (em quilogramas) e outro para a altura (em metros).
